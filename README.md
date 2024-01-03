@@ -36,8 +36,8 @@ The dataset used in this analysis is the House Prices dataset, which includes va
 
 ## Model Performance
 
-- **Linear Regression RMSE:** _(insert value)_
-- **XGBoost RMSE:** _(insert value)_
+- **Linear Regression RMSE:** 0.10
+- **XGBoost RMSE:** 0.11
 
 ## Conclusion
 
